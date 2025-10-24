@@ -5,7 +5,7 @@ Here’s a draft **GitHub-style README.md** for your package **RAP** (Reversal A
 
 ---
 
-````markdown
+
 # RAP  
 [![CRAN version](https://www.r-pkg.org/badges/version/RAP)](https://cran.r-project.org/package=RAP)  
 [![CRAN Downloads](https://cranlogs.r-pkg.org/badges/RAP)](https://cran.r-project.org/package=RAP)  
@@ -84,8 +84,5 @@ See the [LICENSE](LICENSE) file for full details.
 
 *Last updated: 2025-10-10 (version 1.2.2)*
 
-```
 
 
-::contentReference[oaicite:1]{index=1}
-```
