@@ -8,7 +8,6 @@ Here’s a draft **GitHub-style README.md** for your package **RAP** (Reversal A
 
 # RAP  
 [![CRAN version](https://www.r-pkg.org/badges/version/RAP)](https://cran.r-project.org/package=RAP)  
-[![CRAN Downloads](https://cranlogs.r-pkg.org/badges/RAP)](https://cran.r-project.org/package=RAP)  
 [![License: GPL-2](https://img.shields.io/badge/License-GPL%20v2-blue.svg)](https://www.gnu.org/licenses/old-licenses/gpl-2.0.html)
 
 ## Overview  
